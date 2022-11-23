@@ -8,7 +8,9 @@
 ; Before starting simulation set Internal Memory Size 
 ; in the 8086 model properties to 0x10000
 ;====================================================================
-	
+
+paul john
+
 DATA SEGMENT
    PORTA EQU 0F0H;
    PORTB EQU 0F2H;
